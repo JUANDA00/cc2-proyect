@@ -1,2 +1,2 @@
 # cc2-proyect
-Simulator
+Simulato
